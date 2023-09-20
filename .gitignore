@@ -1,7 +1,2 @@
 # Env variables
 .env
-# Test artifacts
-archive/
-# private data and code
-internal/supplementary_data*.go
-data/supplementary_data*.csv
